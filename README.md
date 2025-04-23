@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satvik1311
-- 👀 I’m interested in: AI and ML , Cyber Security , Data Science
-- 🌱 I’m currently learning Java Programming with OOPs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Web3 , Web development, Ai and ML
+- 🌱 I’m currently practising my DSA
+- 💞️ I’m looking to collaborate on Mern Stack Projects and web3 projects 
 - 📫 How to reach me: [satvik.gaur12@gmail.com](https://www.linkedin.com/in/satvik-gaur-a550842a5/)
 - 😄 Pronouns: he/him
 - ⚡ Fact:You can either have results or excuses not both
