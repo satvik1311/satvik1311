@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @satvik1311
-- 👀 I’m interested in: Web3 , Web development, Ai and ML
-- 🌱 I’m currently practising my DSA
-- 💞️ I’m looking to collaborate on Mern Stack Projects and web3 projects 
-- 📫 How to reach me: [satvik.gaur12@gmail.com](https://www.linkedin.com/in/satvik-gaur-a550842a5/)
-- 😄 Pronouns: he/him
-- ⚡ Fact:You can either have results or excuses not both
+Hi, I’m @satvik1311 👋
+Passionate about exploring the future of technology! 🚀
+🎯 Currently diving deep into Data Structures & Algorithms (DSA) to sharpen my problem-solving skills.
 
-<!---
-satvik1311/satvik1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Interests & Focus Areas
+Web3 & Blockchain Development
+Modern Web Development Enthusiast
+Artificial Intelligence & Machine Learning
+🌱 Currently Practicing
+Advanced Data Structures
+Competitive Programming
+Building MERN Stack Projects
+Exploring DeFi and Web3 ecosystems
+
+📫 Reach Me
+Email: satvik.gaur12@gmail.com
+LinkedIn: https://www.linkedin.com/in/satvik-gaur-a550842a5/
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+You can either have results or make excuses—never both!
+
+Let's connect and build amazing tech together! 🚀
