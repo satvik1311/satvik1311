@@ -17,7 +17,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🎓 B.Tech CSE @ GLA University  
 - 🚀 Building scalable full-stack & AI-powered apps  
 - 🧠 Currently working on **AI Memory Vault**  
-- 🎨 NFT Creator – *Tearful Tadpoles* 🐸  
+- 🎨 WEB3 Community Creator(5+ year experience) - *Worked for more than 35+ blockchain based projects* 🐸  
 - ⚡ I blend **code + creativity** to build impactful products  
 
 ---
@@ -38,11 +38,40 @@ Talk to your future self (GenAI + MERN)
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,python,azure" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,python" />
 </p>
 
----
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -68,6 +97,5 @@ Talk to your future self (GenAI + MERN)
 
 ## ⚡ Fun Fact
 
-I live at the intersection of tech and creativity —  
-by day I build, by night I bring ideas to life.  
-Basically, I speak both **“code” and “imagination”** fluently.
+I focus on building and shipping — not just learning.  
+If it’s not deployed, it doesn’t count.
